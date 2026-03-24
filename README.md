@@ -6,7 +6,7 @@ I traded cockpits for codebases — not because I stopped flying, but because I 
 
 ## What I do
 
-I partner with tech companies to embed AI into how they actually work — not as a gimmick, but as infrastructure. Sales pipelines, knowledge systems, voice AI, process automation. The kind of stuff that quietly 10x's a team.
+I'm Head of Business Development at a construction equipment rental company, where I've built a fully AI-automated workflow from the ground up — from a corporate knowledge base to sales pipelines to operations. Every process runs through AI.
 
 ## What I've built
 
