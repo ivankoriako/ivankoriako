@@ -11,6 +11,7 @@ I partner with tech companies to embed AI into how they actually work — not as
 ## What I've built
 
 - **[Viboscope](https://viboscope.com)** — psychological compatibility matching through AI agents. Open-source skill for Claude Code, Cursor, Gemini CLI, Codex & more
+- **[Farboost](https://github.com/ivankoriako/farboost)** — advertising automation platform for Farpost.ru, the largest classifieds marketplace in Russia's Far East
 - **[Schmidt Machinery KB](https://github.com/ivankoriako/schmidt-machinery-kb)** — AI-powered corporate knowledge base for a construction equipment rental company
 - **Digital Life** — personal operating system: goals, tasks, knowledge — all in markdown, all through Claude Code
 
@@ -23,4 +24,3 @@ The future belongs to people who can talk to machines and make them do meaningfu
 ## Stack
 
 `Claude Code` · `Python` · `TypeScript` · `FastAPI` · `Next.js` · `PostgreSQL` · `Markdown everything`
-
